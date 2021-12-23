@@ -12,6 +12,7 @@
 !Makefile
 !make-and-run
 !README.TXT
+!README.md
 !.gitignore
 
 # y todo lo que está en la carpeta examples/
