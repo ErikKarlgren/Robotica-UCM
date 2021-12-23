@@ -1,0 +1,18 @@
+# ignorar todo
+*
+
+# Salvo subcarpetas
+!*/
+
+# Y el código
+!*.c
+!*.h
+
+# y otros ficheros
+!Makefile
+!make-and-run
+!README.TXT
+!.gitignore
+
+# y todo lo que está en la carpeta examples/
+!examples/*
